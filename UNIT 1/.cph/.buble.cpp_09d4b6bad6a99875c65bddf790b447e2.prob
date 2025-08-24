@@ -1,0 +1,1 @@
+{"name":"Local: buble","url":"d:\\DSA WITH C++\\UNIT 1\\buble.cpp","tests":[{"id":1740066743097,"input":"3\nAlice 1234\nBob 5678\nCharlie 91011\nBob","output":"Name: 5678"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA WITH C++\\UNIT 1\\buble.cpp","group":"local","local":true}

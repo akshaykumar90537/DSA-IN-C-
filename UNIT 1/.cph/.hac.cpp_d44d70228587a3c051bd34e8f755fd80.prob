@@ -1,0 +1,1 @@
+{"name":"Local: hac","url":"d:\\DSA WITH C++\\UNIT 1\\hac.cpp","tests":[{"id":1739552077007,"input":"6\n10 20 30 40 50 60\n30","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA WITH C++\\UNIT 1\\hac.cpp","group":"local","local":true}

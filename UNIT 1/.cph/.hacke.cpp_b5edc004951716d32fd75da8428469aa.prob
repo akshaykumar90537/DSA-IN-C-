@@ -1,0 +1,1 @@
+{"name":"Local: hacke","url":"d:\\DSA WITH C++\\UNIT 1\\hacke.cpp","tests":[{"id":1739544602240,"input":"6\n10 20 30 40 50 60\n4\n1 30\n2 2\n1 100\n2 10","output":"Value not found\nInvalid position\n10 20 50 60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA WITH C++\\UNIT 1\\hacke.cpp","group":"local","local":true}

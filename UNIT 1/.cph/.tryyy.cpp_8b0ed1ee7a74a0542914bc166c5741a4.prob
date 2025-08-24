@@ -1,0 +1,1 @@
+{"name":"Local: tryyy","url":"d:\\DSA WITH C++\\UNIT 1\\tryyy.cpp","tests":[{"id":1740066858024,"input":"3\nAlice 1234\nBob 5678\nCharlie 91011\nBob","output":"Name: 5678\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA WITH C++\\UNIT 1\\tryyy.cpp","group":"local","local":true}

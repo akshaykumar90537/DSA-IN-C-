@@ -1,0 +1,1 @@
+{"name":"Local: hackerinsertarray","url":"d:\\DSA WITH C++\\UNIT 1\\hackerinsertarray.cpp","tests":[{"id":1739546455079,"input":"5\n10 20 30 40 50\n3\n1 60\n2 25 2\n2 70 10","output":"10 20 25 30 40 50 60\nInvalid position"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA WITH C++\\UNIT 1\\hackerinsertarray.cpp","group":"local","local":true}
